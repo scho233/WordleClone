@@ -12,3 +12,8 @@ This program was developed in C++.
   + Diverse library of words
   + _5+ letter words coming soon!_
 
+# Visuals
+
+**Sample Game**
+
+<img width="379" height="242" alt="Screenshot 2026-04-21 111855" src="https://github.com/user-attachments/assets/1c3f56cc-b8ca-4c0d-a761-b17ede978cc2" />

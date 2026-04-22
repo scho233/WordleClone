@@ -12,6 +12,15 @@ This program was developed in C++.
   + Diverse library of words
   + _5+ letter words coming soon!_
 
+<br>
+
+**Process:**
+<br><br>
+Game is played in the terminal. The words.txt is provided by darkermango which is just 5 letter words. I made use of maps and vectors to organize word data. 
+Color implemntation was tricky at first with bugged greens, but should mostly be fixed. I am currently developing game options for 5+ letter words. 
+
+
+
 # Visuals
 
 **Sample Game**

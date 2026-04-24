@@ -23,6 +23,13 @@ Color implemntation was tricky at first with bugged greens, but should mostly be
 
 # Visuals
 
-**Sample Game**
+**Sample Game Screenshot**
 
 <img width="379" height="242" alt="Screenshot 2026-04-21 111855" src="https://github.com/user-attachments/assets/1c3f56cc-b8ca-4c0d-a761-b17ede978cc2" />
+
+<br><br>
+**Sample Game Video**
+
+https://github.com/user-attachments/assets/46b6bda9-d27a-48fb-8855-b9fecc180cbc
+
+
